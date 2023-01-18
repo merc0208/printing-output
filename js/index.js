@@ -21,23 +21,23 @@ value += '(a += b): '+ (a+=b) + "\n";
 // a -= b
 value += '(a -= b): '+(a-=b) + "\n";
 // a *= b
-value += '(a *= b):' + (a*=b) + "\n";
+value += '(a *= b): ' + (a*=b) + "\n";
 // a /= b
-value += '(a /= b):' + (a/=b) + "\n";
+value += '(a /= b): ' + (a/=b) + "\n";
 // a %= b
-value += '(a %= b):' + (a %=b) + "\n";
+value += '(a %= b): ' + (a %=b) + "\n";
 // a == b
-value += '(a == b):' + (a==b) + "\n";
+value += '(a == b): ' + (a==b) + "\n";
 // a != b
-value += '(a != b):' + (a!=b) + "\n";
+value += '(a != b): ' + (a!=b) + "\n";
 // a > b
-value += '(a > b):' + (a>b) + "\n";
+value += '(a > b): ' + (a>b) + "\n";
 // a < b
-value += '(a < b):' + (a<b) + "\n";
+value += '(a < b): ' + (a<b) + "\n";
 // !a && !c 
-value += '(!a && !c ):' + (!a && !c ) + "\n";
+value += '(!a && !c ): ' + (!a && !c ) + "\n";
 // !a || !c 
-value += '(!a || !c ):' + (!a || !c ) + "\n";
+value += '(!a || !c ): ' + (!a || !c ) + "\n";
 alert(value);
 
 let first_name = 'Daniela';
